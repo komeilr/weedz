@@ -1,0 +1,8 @@
+# items
+item.marijuana_blunt.name=Marijuana Bluntaz
+item.marijuana_leaf.name=Marijuana Leaf
+item.dried_marijuana.name=Dried Marijuana
+item.marijuana_sword.name=Marijuana Sword
+
+#blocks
+tile.weed_block.name=Block of Marijuana

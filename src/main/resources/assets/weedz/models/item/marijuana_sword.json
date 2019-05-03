@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "weedz:items/marijuana_sword"
+	}
+}

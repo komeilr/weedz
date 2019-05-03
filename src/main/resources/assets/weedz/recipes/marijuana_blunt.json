@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PDP"
+	],
+	"key": {
+		"P": {
+			"item": "minecraft:paper"
+		},
+		"D": {
+			"item": "weedz:dried_marijuana"
+		}
+	},
+	"result": {
+		"item": "weedz:marijuana_blunt",
+		"count": 1	
+	}
+}

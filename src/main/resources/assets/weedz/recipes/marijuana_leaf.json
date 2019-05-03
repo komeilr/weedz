@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "weedz:weed_block"
+		}
+	],
+	"result": {
+		"item": "weedz:marijuana_leaf",
+		"count": 9
+	}	
+}
